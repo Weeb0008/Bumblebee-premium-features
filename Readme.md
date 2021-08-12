@@ -14,6 +14,6 @@
 - Welcome Messages: `enable-join`,`disable-join`,`set-welcomechannel`,`set-welcome-message`.
 
 # NOTE: More Features Will be added soon!!
-Join My Support Server [here] (https://discord.gg/uX2mBpqguP)
+Join My Support Server [here](https://discord.gg/uX2mBpqguP)
 
 Made With Love By ᴰᵉᵛ𝓦𝓪𝓵𝓴𝓮𝓻4𝓮𝓿𝓮𝓻#6969! Dm me if facing any issues...
